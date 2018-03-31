@@ -1,1 +1,5 @@
-# monoBlog.github.io
+# mono-alex.github.io/my-site
+
+## ここは自分用のブログ兼ポートフィリオ置き場
+まだまだ、未完成状態です。  
+目標：クオリティの高い作品を順次上げていく。  
