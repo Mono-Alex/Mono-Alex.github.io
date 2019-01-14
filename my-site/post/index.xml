@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Mono&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 27 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mono-alex.github.io/my-site/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google studio Earth 使ってみた</title>
+      <link>https://mono-alex.github.io/my-site/post/work4/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mono-alex.github.io/my-site/post/work4/</guid>
+      <description> Google studio Earth 使ってみた </description>
+    </item>
     
     <item>
       <title>CSSアニメーションのアウトプット</title>
