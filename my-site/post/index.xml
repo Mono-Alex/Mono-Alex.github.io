@@ -5,14 +5,14 @@
     <link>https://mono-alex.github.io/my-site/post/</link>
     <description>Recent content in Posts on Mono&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language>
+    <language>ja</language>
     <lastBuildDate>Mon, 27 Mar 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mono-alex.github.io/my-site/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>私のアウトプットその3</title>
+      <title>私のアウトプットその3(ポートフォリオサイト)</title>
       <link>https://mono-alex.github.io/my-site/post/work3/</link>
       <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
       
@@ -22,17 +22,19 @@
     </item>
     
     <item>
-      <title>私のアウトプットその4</title>
+      <title>私のアウトプットその4(スマートスピーカー)</title>
       <link>https://mono-alex.github.io/my-site/post/work4/</link>
       <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mono-alex.github.io/my-site/post/work4/</guid>
-      <description>&lt;p&gt;This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!
+      <description>&lt;p&gt;双方向オンライン学習の目指すところ&lt;/p&gt;
+
+&lt;p&gt;This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!
 &lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>私のアウトプットその5</title>
+      <title>私のアウトプットその5(自動水やり機)</title>
       <link>https://mono-alex.github.io/my-site/post/work5/</link>
       <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
       
@@ -42,7 +44,7 @@
     </item>
     
     <item>
-      <title>私のアウトプットその6</title>
+      <title>私のアウトプットその6(サーバー運用)</title>
       <link>https://mono-alex.github.io/my-site/post/work6/</link>
       <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
       
@@ -52,7 +54,7 @@
     </item>
     
     <item>
-      <title>私のアウトプットその7</title>
+      <title>私のアウトプットその7(オープンデータ)</title>
       <link>https://mono-alex.github.io/my-site/post/work7/</link>
       <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
       
@@ -62,7 +64,7 @@
     </item>
     
     <item>
-      <title>私のアウトプットその２</title>
+      <title>私のアウトプットその２(画像分類)</title>
       <link>https://mono-alex.github.io/my-site/post/work2/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
@@ -72,13 +74,12 @@
     </item>
     
     <item>
-      <title>私のアウトプットその1</title>
+      <title>私のアウトプットその1(Mapbox)</title>
       <link>https://mono-alex.github.io/my-site/post/work1/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>https://mono-alex.github.io/my-site/post/work1/</guid>
-      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-&lt;/p&gt;</description>
+      <description></description>
     </item>
     
   </channel>

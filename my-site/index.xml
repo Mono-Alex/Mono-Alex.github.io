@@ -5,14 +5,14 @@
     <link>https://mono-alex.github.io/my-site/</link>
     <description>Recent content on Mono&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language>
+    <language>ja</language>
     <lastBuildDate>Mon, 27 Mar 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mono-alex.github.io/my-site/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>私のアウトプットその3</title>
+      <title>私のアウトプットその3(ポートフォリオサイト)</title>
       <link>https://mono-alex.github.io/my-site/post/work3/</link>
       <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
       
@@ -22,17 +22,19 @@
     </item>
     
     <item>
-      <title>私のアウトプットその4</title>
+      <title>私のアウトプットその4(スマートスピーカー)</title>
       <link>https://mono-alex.github.io/my-site/post/work4/</link>
       <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mono-alex.github.io/my-site/post/work4/</guid>
-      <description>&lt;p&gt;This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!
+      <description>&lt;p&gt;双方向オンライン学習の目指すところ&lt;/p&gt;
+
+&lt;p&gt;This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!
 &lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>私のアウトプットその5</title>
+      <title>私のアウトプットその5(自動水やり機)</title>
       <link>https://mono-alex.github.io/my-site/post/work5/</link>
       <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
       
@@ -42,7 +44,7 @@
     </item>
     
     <item>
-      <title>私のアウトプットその6</title>
+      <title>私のアウトプットその6(サーバー運用)</title>
       <link>https://mono-alex.github.io/my-site/post/work6/</link>
       <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
       
@@ -52,7 +54,7 @@
     </item>
     
     <item>
-      <title>私のアウトプットその7</title>
+      <title>私のアウトプットその7(オープンデータ)</title>
       <link>https://mono-alex.github.io/my-site/post/work7/</link>
       <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
       
@@ -62,7 +64,7 @@
     </item>
     
     <item>
-      <title>私のアウトプットその２</title>
+      <title>私のアウトプットその２(画像分類)</title>
       <link>https://mono-alex.github.io/my-site/post/work2/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
@@ -74,44 +76,37 @@
     <item>
       <title>About me</title>
       <link>https://mono-alex.github.io/my-site/about/</link>
-      <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://mono-alex.github.io/my-site/about/</guid>
-      <description> 私について 私は分厚い肉とゲームが大好きです。
+      <description> 私について 私の好物は分厚い肉とゲームです。
 難しいものは少し苦手です。
 興味のあるものは本気で打ち込めるけど、興味のないものは全く手につきません。
-あと我慢が好きではありません。
+あと我慢することが好きではありません。
 怠惰でサボることを好みます。
-自分の生存戦略も込めて、世間にアウトプットするをコンセプトにブログ兼ポートフォリオを作成中。
-情報系を専攻していたわけではないし、電気電子をやっていたけれど中身は光と材料関係を取り扱っていたような気がします。
+自分の生存戦略も込めて、自分の成果物を世間にアウトプットすることを目的にブログ兼ポートフォリオをここに載せています。 2019年段階では、重要インフラ指定のオンプレミス設備を保守するメンバーの元でお仕事しています。
 スキルについて デザインに関するスキルはありません。コピペする能力のみです。
-絵はへたっぴです。
-どのくらいの能力があるか結構いうの難しい。
-エンジニアとして技術に対してオープンであることを心がけています。
-わからないことがあればその場で調べる！
-目標 年間でクオリティの高い作品を3つ出す！(webアプリ系で)
-qiitaの記事を1月1page書いていきたい
-* webmap マップボックスを使おう編 * hugo解説編 * 〇〇機械学習してみたったー
-言葉について  日本語スコシデキル javascript(Nodejs) python3(頑張る) ruby(全然手をつけていない) java(なにそれ美味しいの？) swift(必要性を感じられなかった＞＜) golang(ブログサイトのためだけに勉強する感じ) scala(大規模Webアプリ開発には必須っぽい) Unityはやってみたい・・・  </description>
+絵はへたっぴです。 エンジニアとして技術に対してオープンであることを心がけています。
+わからないことがあればその場（Google）で調べる！
+言葉について  日本語スコシデキル javascript(Nodejs) python3(頑張る) 主にアナコンダ関係で使えるくらいには勉強中 ruby(全然手をつけていない) 正直、putしか知らない java(なにそれ美味しいの？) 触ってません swift(必要性を感じられなかった＞＜) フードトラッカーを手順書通り作ったくらい golang(ブログサイトのためだけに勉強する感じ) このサイトを作る上でhugoで勉強した内容くらい scala(大規模Webアプリ開発には必須っぽい) N予備校の教材を少しやった程度 Unityはやってみたい 主にCGの簡単なモデリングでしか扱ったことはない  </description>
     </item>
     
     <item>
-      <title>Get in touch</title>
-      <link>https://mono-alex.github.io/my-site/contact/</link>
-      <pubDate>Sun, 06 Nov 2016 13:00:25 +0530</pubDate>
-      
-      <guid>https://mono-alex.github.io/my-site/contact/</guid>
-      <description>連絡方法 頑張って公開する 私の連絡先はここだ！と言えるようになりたい。。。</description>
-    </item>
-    
-    <item>
-      <title>私のアウトプットその1</title>
+      <title>私のアウトプットその1(Mapbox)</title>
       <link>https://mono-alex.github.io/my-site/post/work1/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>https://mono-alex.github.io/my-site/post/work1/</guid>
-      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-&lt;/p&gt;</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>contact</title>
+      <link>https://mono-alex.github.io/my-site/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mono-alex.github.io/my-site/contact/</guid>
+      <description>連絡方法 現在、非公開です。</description>
     </item>
     
   </channel>
