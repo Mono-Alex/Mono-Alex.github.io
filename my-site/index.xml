@@ -6,71 +6,29 @@
     <description>Recent content on Mono&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 27 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mono-alex.github.io/my-site/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>私のアウトプットその3(ポートフォリオサイト)</title>
+      <title>CSSアニメーションのアウトプット</title>
       <link>https://mono-alex.github.io/my-site/post/work3/</link>
-      <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://mono-alex.github.io/my-site/post/work3/</guid>
-      <description>&lt;p&gt;This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!
-&lt;/p&gt;</description>
+      <description>yui540さんのyoutubeを元に写経 https://yui540.graphics/
+https://www.youtube.com/channel/UCcrjkTnjMxXf7wnynsmWMzA/
+https://github.com/yui540</description>
     </item>
     
     <item>
-      <title>私のアウトプットその4(スマートスピーカー)</title>
-      <link>https://mono-alex.github.io/my-site/post/work4/</link>
-      <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mono-alex.github.io/my-site/post/work4/</guid>
-      <description>&lt;p&gt;双方向オンライン学習の目指すところ&lt;/p&gt;
-
-&lt;p&gt;This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>私のアウトプットその5(自動水やり機)</title>
-      <link>https://mono-alex.github.io/my-site/post/work5/</link>
-      <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mono-alex.github.io/my-site/post/work5/</guid>
-      <description>&lt;p&gt;This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>私のアウトプットその6(サーバー運用)</title>
-      <link>https://mono-alex.github.io/my-site/post/work6/</link>
-      <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mono-alex.github.io/my-site/post/work6/</guid>
-      <description>&lt;p&gt;This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>私のアウトプットその7(オープンデータ)</title>
-      <link>https://mono-alex.github.io/my-site/post/work7/</link>
-      <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mono-alex.github.io/my-site/post/work7/</guid>
-      <description>&lt;p&gt;This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>私のアウトプットその２(画像分類)</title>
+      <title>N予備校で学んだ内容から、オープンデータに関するアプリ作ってみた</title>
       <link>https://mono-alex.github.io/my-site/post/work2/</link>
-      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      <pubDate>Sat, 17 Mar 2018 19:41:01 +0530</pubDate>
       
       <guid>https://mono-alex.github.io/my-site/post/work2/</guid>
-      <description>&lt;p&gt;This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!
-&lt;/p&gt;</description>
+      <description>詳しくはQiita記事へ https://qiita.com/Mono-Alex/items/3cbdbe5acbc628925e2d</description>
     </item>
     
     <item>
@@ -79,25 +37,23 @@
       <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://mono-alex.github.io/my-site/about/</guid>
-      <description> 私について 私の好物は分厚い肉とゲームです。
-難しいものは少し苦手です。
-興味のあるものは本気で打ち込めるけど、興味のないものは全く手につきません。
-あと我慢することが好きではありません。
-怠惰でサボることを好みます。
-自分の生存戦略も込めて、自分の成果物を世間にアウトプットすることを目的にブログ兼ポートフォリオをここに載せています。 2019年段階では、重要インフラ指定のオンプレミス設備を保守するメンバーの元でお仕事しています。
+      <description> 私について 私の好物は分厚いお肉とオンラインゲームです。 興味のあるものは本気で打ち込めますが、興味のないものは全く手につきません。
+WEB系のプログラミング知識は2017年1月からN予備校で学びました。業務ではいっさい使ったことがありません。完全に趣味の領域になります。ほぼ、荒削りな独学と言えます。
+ここからは経歴紹介、会社名は伏せます。 2015年4月新卒入社時、主に工具を使うエンジニアをやっていました。 2018年4月から同じ会社のソフトウェアを扱うプログラム打たない系のSEとして異動しました。 2019年段階では、重要インフラ指定のオンプレミス設備を保守するメンバーの元でお仕事しています。
+自分の生存戦略も込めて、自分の趣味の成果物を世間にアウトプットすることを目的にブログ兼ポートフォリオをここに載せています。
 スキルについて デザインに関するスキルはありません。コピペする能力のみです。
-絵はへたっぴです。 エンジニアとして技術に対してオープンであることを心がけています。
-わからないことがあればその場（Google）で調べる！
+絵は期待しないでください。 日曜大工エンジニアとして技術に対してオープンであることを心がけています。
+エンジニアリングは技術的な高度さよりも、求められる要件を適切に判断し、実装するためのコミュニケーションを蜜に取ることだと思っています。情報の不確実性を減らしていくのです・・・。 わからないことがあればその場（Google）で調べる！頑張って自己解決。
 言葉について  日本語スコシデキル javascript(Nodejs) python3(頑張る) 主にアナコンダ関係で使えるくらいには勉強中 ruby(全然手をつけていない) 正直、putしか知らない java(なにそれ美味しいの？) 触ってません swift(必要性を感じられなかった＞＜) フードトラッカーを手順書通り作ったくらい golang(ブログサイトのためだけに勉強する感じ) このサイトを作る上でhugoで勉強した内容くらい scala(大規模Webアプリ開発には必須っぽい) N予備校の教材を少しやった程度 Unityはやってみたい 主にCGの簡単なモデリングでしか扱ったことはない  </description>
     </item>
     
     <item>
-      <title>私のアウトプットその1(Mapbox)</title>
+      <title>N予備校生がN予備校のプログラミングコースでよく見るアレ作ってみた！</title>
       <link>https://mono-alex.github.io/my-site/post/work1/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <pubDate>Mon, 11 Dec 2017 18:25:22 +0530</pubDate>
       
       <guid>https://mono-alex.github.io/my-site/post/work1/</guid>
-      <description></description>
+      <description>詳しくはQiita記事へ https://qiita.com/Mono-Alex/items/98be3465690653777e88</description>
     </item>
     
     <item>
