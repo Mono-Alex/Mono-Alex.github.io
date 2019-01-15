@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mono&#39;s Portfolio</title>
-    <link>https://mono-alex.github.io/my-site/</link>
+    <link>https://mono-alex.github.io/</link>
     <description>Recent content on Mono&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 02 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://mono-alex.github.io/my-site/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mono-alex.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Google studio Earth 使ってみた</title>
-      <link>https://mono-alex.github.io/my-site/post/work4/</link>
+      <link>https://mono-alex.github.io/post/work4/</link>
       <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mono-alex.github.io/my-site/post/work4/</guid>
+      <guid>https://mono-alex.github.io/post/work4/</guid>
       <description> Google studio Earth 使ってみた </description>
     </item>
     
     <item>
       <title>CSSアニメーションのアウトプット</title>
-      <link>https://mono-alex.github.io/my-site/post/work3/</link>
+      <link>https://mono-alex.github.io/post/work3/</link>
       <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mono-alex.github.io/my-site/post/work3/</guid>
+      <guid>https://mono-alex.github.io/post/work3/</guid>
       <description>yui540さんのyoutubeを元に写経 https://yui540.graphics/
 https://www.youtube.com/channel/UCcrjkTnjMxXf7wnynsmWMzA/
 https://github.com/yui540</description>
@@ -33,19 +33,19 @@ https://github.com/yui540</description>
     
     <item>
       <title>N予備校で学んだ内容から、オープンデータに関するアプリ作ってみた</title>
-      <link>https://mono-alex.github.io/my-site/post/work2/</link>
+      <link>https://mono-alex.github.io/post/work2/</link>
       <pubDate>Sat, 17 Mar 2018 19:41:01 +0530</pubDate>
       
-      <guid>https://mono-alex.github.io/my-site/post/work2/</guid>
+      <guid>https://mono-alex.github.io/post/work2/</guid>
       <description>詳しくはQiita記事へ https://qiita.com/Mono-Alex/items/3cbdbe5acbc628925e2d</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>https://mono-alex.github.io/my-site/about/</link>
+      <link>https://mono-alex.github.io/about/</link>
       <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mono-alex.github.io/my-site/about/</guid>
+      <guid>https://mono-alex.github.io/about/</guid>
       <description> 私について 私の好物は分厚いお肉とオンラインゲームです。 興味のあるものは本気で打ち込めますが、興味のないものは全く手につきません。
 WEB系のプログラミング知識は2017年1月からN予備校で学びました。業務ではいっさい使ったことがありません。完全に趣味の領域になります。ほぼ、荒削りな独学と言えます。
 ここからは経歴紹介、会社名は伏せます。 2015年4月新卒入社時、主に工具を使うエンジニアをやっていました。 2018年4月から同じ会社のソフトウェアを扱うプログラム打たない系のSEとして異動しました。 2019年段階では、重要インフラ指定のオンプレミス設備を保守するメンバーの元でお仕事しています。
@@ -58,19 +58,19 @@ WEB系のプログラミング知識は2017年1月からN予備校で学びま�
     
     <item>
       <title>N予備校生がN予備校のプログラミングコースでよく見るアレ作ってみた！</title>
-      <link>https://mono-alex.github.io/my-site/post/work1/</link>
+      <link>https://mono-alex.github.io/post/work1/</link>
       <pubDate>Mon, 11 Dec 2017 18:25:22 +0530</pubDate>
       
-      <guid>https://mono-alex.github.io/my-site/post/work1/</guid>
+      <guid>https://mono-alex.github.io/post/work1/</guid>
       <description>詳しくはQiita記事へ https://qiita.com/Mono-Alex/items/98be3465690653777e88</description>
     </item>
     
     <item>
       <title>contact</title>
-      <link>https://mono-alex.github.io/my-site/contact/</link>
+      <link>https://mono-alex.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mono-alex.github.io/my-site/contact/</guid>
+      <guid>https://mono-alex.github.io/contact/</guid>
       <description>連絡方法 現在、非公開です。</description>
     </item>
     
