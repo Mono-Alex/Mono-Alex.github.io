@@ -50,13 +50,13 @@
   </url>
   
   <url>
-    <loc>https://mono-alex.github.io/contact/</loc>
+    <loc>https://mono-alex.github.io/categories/tech/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mono-alex.github.io/categories/%E6%8A%80%E8%A1%93%E3%83%96%E3%83%AD%E3%82%B0%E7%9A%84%E3%81%AA/</loc>
-    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://mono-alex.github.io/contact/</loc>
   </url>
   
 </urlset>
