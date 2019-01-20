@@ -6,10 +6,19 @@
     <description>Recent content on Mono&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 02 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mono-alex.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>obnizでサーボモーターを制御（ザクヘッドを動かす！）</title>
+      <link>https://mono-alex.github.io/post/work5/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mono-alex.github.io/post/work5/</guid>
+      <description>obnizでサーボモーターを制御 500円のザクヘッドをあれやこれして、サーボモータを中に搭載しました。 サーボモータの制御自体はobnizのチュートリアルのままです。</description>
+    </item>
     
     <item>
       <title>Google studio Earth 使ってみた</title>
@@ -38,15 +47,6 @@ https://github.com/yui540</description>
       
       <guid>https://mono-alex.github.io/post/work2/</guid>
       <description>詳しくはQiita記事へ https://qiita.com/Mono-Alex/items/3cbdbe5acbc628925e2d</description>
-    </item>
-    
-    <item>
-      <title>obnizでサーボモーターを制御（ザクヘッドを動かす！）</title>
-      <link>https://mono-alex.github.io/post/work5/</link>
-      <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mono-alex.github.io/post/work5/</guid>
-      <description> obnizでサーボモーターを制御 </description>
     </item>
     
     <item>
