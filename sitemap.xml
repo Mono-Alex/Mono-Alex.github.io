@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mono-alex.github.io/post/work6/</loc>
+    <lastmod>2019-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mono-alex.github.io/post/work5/</loc>
     <lastmod>2019-01-03T00:00:00+00:00</lastmod>
   </url>
@@ -39,13 +44,13 @@
   
   <url>
     <loc>https://mono-alex.github.io/</loc>
-    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mono-alex.github.io/post/</loc>
-    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -56,7 +61,7 @@
   
   <url>
     <loc>https://mono-alex.github.io/categories/tech/</loc>
-    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

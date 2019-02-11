@@ -6,10 +6,26 @@
     <description>Recent content on Mono&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 03 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mono-alex.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>elf-farmの制作過程</title>
+      <link>https://mono-alex.github.io/post/work6/</link>
+      <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mono-alex.github.io/post/work6/</guid>
+      <description>&lt;p&gt;N予備校２０１８冬のwebアプリコンテスト提出用の記事になります。
+コンテスト内容は以下のリンク先から
+&lt;a href=&#34;https://progedu.github.io/web-contests/webcontest2018-winter/&#34;&gt;https://progedu.github.io/web-contests/webcontest2018-winter/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;URL&#34; title=&#34;https://mono-alex.github.io/elf-farm/&#34;&gt;elf-farm&lt;/a&gt; というlinebotの制作過程をこちらに記載していきます。
+時間が取れればQittaにまとめていきたい。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>obnizでサーボモーターを制御（ザクヘッドを動かす！）</title>
