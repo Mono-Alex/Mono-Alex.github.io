@@ -6,10 +6,21 @@
     <description>Recent content in Tech on Mono&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 11 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mono-alex.github.io/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GEOSPATIAL-Hackers初めてのハッカソン参加</title>
+      <link>https://mono-alex.github.io/post/work7/</link>
+      <pubDate>Sun, 17 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mono-alex.github.io/post/work7/</guid>
+      <description>&lt;p&gt;初ハッカソン参加してみたので、ここに覚書を残します。2019年2月　兵庫県神戸市で行われた総務省主催のGEOSPATIAL-Hackersという、webMapの利活用を目的としたハッカソンが2019年2月16日〜17日にかけて行われるので行ってきました。
+&lt;a href=&#34;http://www.soumu.go.jp/menu_news/s-news/01ryutsu06_02000200.html&#34;&gt;http://www.soumu.go.jp/menu_news/s-news/01ryutsu06_02000200.html&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>elf-farmの制作過程</title>
